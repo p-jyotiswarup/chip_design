@@ -1,4 +1,5 @@
-# chip_design Week1
+# Chip Design Level-3
+![](https://github.com/p-jyotiswarup/chip_design/blob/main/Front%20page%20pics/VSD-IAT%20pic.jpg)
 # This is a repository for the VSD-IAT Chip Design program.
 # There are totally 5 Days/Topic in the Level 3 program.
 # Titles of the lessons are give below.
@@ -12,3 +13,7 @@
 # By P- Jyoti Swarup
 # Class 9
 # Email- dileep.paruchuri@gmail.com
+# Sneak peaks of the project.
+![](https://github.com/p-jyotiswarup/chip_design/blob/main/Front%20page%20pics/DAY2-1.jpg)
+![](https://github.com/p-jyotiswarup/chip_design/blob/main/Front%20page%20pics/DAY3-1.jpg)
+![](https://github.com/p-jyotiswarup/chip_design/blob/main/Front%20page%20pics/Aspose.Words.4d6f6185-8cc3-4232-8510-2db9b746ad11.012.jpeg)
