@@ -1,7 +1,7 @@
 DAY-3 Design library cell using Magic Layout and ngspice characterization.
 TASK-1: Obtain magic for the following.
 Step-1: Run the command magic -T sky130A.tech sky130_inv.mag & , In the directory /Desktop/work/tools/openlane_working_dir/openlane/vsdstdcelldesign$ .
-
+https://github.com/p-jyotiswarup/chip_design/blob/main/LEVEL%203%20Snapshots/DAY1-1.jpg
 
 Step-2: The result in then obtained.
 
